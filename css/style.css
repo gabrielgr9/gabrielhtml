@@ -1,0 +1,28 @@
+/*classe no css é representada por.*/
+.container{
+    width: 98;
+    height: 800px;
+    background-color: gray;
+    border: 3px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    font-family: Arial;
+    font-size: x-large;
+    font-weight: 200;
+    text-align: center;
+    text-shadow: 3px 3px black;
+    color: aliceblue;
+}
+.mantosagrado{
+    width: 70vw;
+    height: 200px;
+    border: 2px;
+    background-color: rgb(1, 5, 62);
+    border-style: solid;
+    border-color: black;
+    border: 3px;
+    font-family:'Times New Roman';
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    text-align: center;
+}
